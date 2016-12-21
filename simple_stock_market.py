@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------------------
+#
 # Name:        simple stock market
 # Purpose:     JPM programming assignment
 #
@@ -7,7 +7,8 @@
 # Created:     24-05-2016
 # Copyright:   (c) Graham 2016
 # Licence:     <your licence>
-#-------------------------------------------------------------------------------
+#
+
 
 import time
 # Used for timestamp
